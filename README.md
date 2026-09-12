@@ -44,6 +44,6 @@ Building practical projects that combine **data, creativity, culture, and sport*
 
 ## 🔗 Find me elsewhere
 
-* 💼 LinkedIn
-* 🎬 Creative Portfolio
-* 📧 Email
+- 💼 [LinkedIn](https://www.linkedin.com/in/georgiajayysummers/)
+- 🎬 [Creative Portfolio](YOUR_PORTFOLIO_URL)
+- 📧 [Email](mailto:work.georgiajayy@gmail.com)
